@@ -1,2 +1,1 @@
-I just decided to create a pascal triangle coefficient finder.
-Not a needed program just wanted to see how complicated it could be.
+Pascal Triangle with a little bit of formatting
